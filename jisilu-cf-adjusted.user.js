@@ -7,8 +7,8 @@
 // @match        https://www.jisilu.cn/data/cf/*
 // @grant        none
 // @license      MIT
-// @downloadURL https://update.greasyfork.org/scripts/563579/%E9%9B%86%E6%80%9D%E5%BD%95%20%E5%B0%81%E9%97%AD%E8%82%A1%E5%9F%BA%28%E8%82%A1%E7%A5%A8%E5%9E%8B%29%20%E4%BF%AE%E6%AD%A3%E5%B9%B4%E5%8C%96%E6%8A%98%E4%BB%B7%E7%8E%87.user.js
-// @updateURL https://update.greasyfork.org/scripts/563579/%E9%9B%86%E6%80%9D%E5%BD%95%20%E5%B0%81%E9%97%AD%E8%82%A1%E5%9F%BA%28%E8%82%A1%E7%A5%A8%E5%9E%8B%29%20%E4%BF%AE%E6%AD%A3%E5%B9%B4%E5%8C%96%E6%8A%98%E4%BB%B7%E7%8E%87.meta.js
+// @downloadURL https://github.com/melville0333/jisilu-closed-end-fund-adjusted-discount/raw/refs/heads/main/jisilu-cf-adjusted.user.js
+// @updateURL https://github.com/melville0333/jisilu-closed-end-fund-adjusted-discount/raw/refs/heads/main/jisilu-cf-adjusted.user.js
 // ==/UserScript==
 
 (function() {
